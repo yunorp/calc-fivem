@@ -1,33 +1,33 @@
 [
     {
-        "id": "kit medico",
-        "venda": "500",
-        "compra": "285"
+        "id": "kit Reparo",
+        "venda": "300",
+        "compra": "100"
     },
     {
-        "id": "atadura",
+        "id": "Oleo",
         "venda": "100",
-        "compra": "90"
+        "compra": "50"
     },
     {
-        "id": "bandagem",
-        "venda": "150",
-        "compra": "115"
+        "id": "Lockpick",
+        "venda": "300",
+        "compra": "150"
     },
     {
-        "id": "analgesico",
+        "id": "xx",
         "venda": "100",
-        "compra": "85"
+        "compra": "100"
     },
     {
-        "id": "sinkalmy",
+        "id": "xx",
         "venda": "200",
-        "compra": "185"
+        "compra": "200"
     },
     {
-        "id": "ritmoneury",
+        "id": "xx",
         "venda": "250",
-        "compra": "225"
+        "compra": "250"
     }
 ]
 
